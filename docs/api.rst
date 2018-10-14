@@ -1,7 +1,7 @@
 API
 ===
 
-Otozi Free Monitor
+IOT Dashboard
 
 
 GET
