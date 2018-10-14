@@ -7,5 +7,5 @@ IOT Dashboard
 GET
 ----
 
-Otozi Free Monitor
+Iot Dashboard Free Monitor
 
