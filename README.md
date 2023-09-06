@@ -5,4 +5,5 @@ Be aware when the website is closed.
 
 `Iot Dashboard Monitor <http://iothook.com/>`_
 
-New Reposity https://github.com/electrocoder/iothookdoc
+New Reposity https://github.com/electrocoder/IOThook
+
